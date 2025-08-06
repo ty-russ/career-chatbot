@@ -1,5 +1,9 @@
 # Portfolio Website AI Chat Bot
 
+## Summary
+
+A lightweight AI chat assistant embedded right in your portfolio – powered by Gradio and OpenAI, this bot interacts as you, captures visitor leads via Pushover notifications, and logs any unanswered questions for continuous improvement.
+
 A Gradio‑powered chat interface that represents **Tirus Kimani Wagacha** authentically on his personal website. This bot:
 
 - Uses the OpenAI API to answer questions in the voice of Tirus, based on his LinkedIn profile and summary.
@@ -7,10 +11,6 @@ A Gradio‑powered chat interface that represents **Tirus Kimani Wagacha** authe
 - Records any unanswered questions for future review.
 
 ---
-
-## Summary
-
-A lightweight AI chat assistant embedded right in your portfolio – powered by Gradio and OpenAI, this bot interacts as you, captures visitor leads via Pushover notifications, and logs any unanswered questions for continuous improvement.
 
 ## 📂 Repository Structure
 
