@@ -16,11 +16,11 @@ A lightweight AI chat assistant embedded right in your portfolio – powered by 
 
 ```
 ├── files/
-│   ├── linkedin.pdf       # Raw LinkedIn profile PDF
+│   ├── linkedin.pdf       # LinkedIn profile PDF
 │   └── summary.txt        # Plain‑text summary of professional background
 ├── app.py                 # Main application script
 ├── requirements.txt       # Python dependencies
-└── README.md              # This file
+└── README.md              
 ```
 
 ---
